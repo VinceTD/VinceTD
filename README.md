@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on a daily weather data pipeline.
 - 🌱 Learing Kubernetes, Terraform
-- 📖 Strengthening Python, cybersecurity fundamentals, system design, data structures and algorithms
+- 📖 Strengthening Python, cybersecurity fundamentals, system design, CI/CD, data structures and algorithms
 - 🤖 Ex-Tesla, ex-Meta, now at NVIDIA
